@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+google-genai
+faiss-cpu
+pandas
+numpy
+python-dotenv
+scikit-learn
+pypdf
+python-multipart
